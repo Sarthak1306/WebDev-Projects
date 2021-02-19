@@ -4,11 +4,11 @@
 <br>
 [HoverMe Fancy Button](https://codepen.io/sarthak1306/pen/wvodqmQ)
 <br>
-[Pricing Panel]()
+[Pricing Panel](#PriceTable)
 <br> 
-[Loading Screen]()
+[Loading Screen](#LoadingScreen)
 <br>
-[Rotating Card]()
+[Rotating Card](#Rotating Card)
 <br> 
-[Border with Triangle Top]()
+[Border with Triangle Top](#Border with Triangle Top)
 
